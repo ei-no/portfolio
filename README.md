@@ -13,4 +13,4 @@ This is my personal portfolio project showcasing the work I am doing as a It-stu
 
 - HTML
 - CSS
-To view the project: https://ei-no.github.io/portfolio/index.html
+## To view the project: https://ei-no.github.io/portfolio/index.html
